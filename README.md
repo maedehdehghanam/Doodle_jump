@@ -19,7 +19,7 @@ This is a simple implementation of the popular Doodle Jump game using Assembly l
 
 ## How to Play
 
-- Use the j, k  and l keys to control the character's movement.
+- Use the `j`, `k`,  and `l` keys to control the character's movement.
 - The character automatically jumps when landing on a platform.
 - Try to jump from one platform to another to reach higher levels.
 - Avoid falling off the screen or colliding with obstacles.

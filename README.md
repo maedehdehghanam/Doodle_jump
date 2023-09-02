@@ -24,8 +24,7 @@ This is a simple implementation of the popular Doodle Jump game using Assembly l
 - Try to jump from one platform to another to reach higher levels.
 - Avoid falling off the screen or colliding with obstacles.
 - The game ends when the character falls off the screen or collides with a bug.
-
-![ezgif com-video-to-gif](https://github.com/maedehdehghanam/Doodle_jump/assets/81408402/ab6636bf-86bd-4c69-bc37-7d7e529e6f05)
+    ![ezgif com-video-to-gif (1)](https://github.com/maedehdehghanam/Doodle_jump/assets/81408402/8dd1b31a-37d9-4575-ad23-a7fbb1372df3)
 
 
 ## Customization and Extensions
